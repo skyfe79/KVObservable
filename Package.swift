@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "KVObservable",
-    platforms: [.iOS(.v13), .macOS(.v10_15), .watchOS(.v8), .tvOS(.v13), .macCatalyst(.v13), .visionOS(.v1)],
+    platforms: [.iOS(.v13), .macOS(.v10_15), .watchOS(.v8), .tvOS(.v13), .macCatalyst(.v13)],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
