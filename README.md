@@ -17,7 +17,7 @@ Add the package to your project by adding the following to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/skyfe79/KVObservable.git", .upToNextMajor(from: "0.0.1"))
+    .package(url: "https://github.com/skyfe79/KVObservable.git", .upToNextMajor(from: "0.0.2"))
 ]
 ```
 
